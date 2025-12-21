@@ -7,30 +7,30 @@
 I am an AI & Data Science engineering student with hands-on experience in Python, Machine Learning, Data Analytics, and Generative AI.
 I focus on learning by building projects and continuously improving my skills through real-world applications.
 
-🔭 What I’m currently working on
 🌱 AI-powered crop disease detection & agriculture solutions
 📊 Data analytics dashboards using real business datasets
 🤖 Exploring Generative AI and intelligent agent systems
 🧠 Strengthening problem-solving & ML fundamentals
 🛠️ Tools & Technologies I Use
-👨‍💻 Programming & AI
+
+Programming & AI
 Python
 Machine Learning
 TensorFlow
 Generative AI
 
-📊 Data & Visualization
+Data & Visualization
 Power BI
 Tableau
 Excel
 SQL
 
-🌐 Web & App Development
+Web & App Development
 Streamlit
 HTML
 CSS
 
-☁️ Tools & Platforms
+Tools & Platforms
 Git & GitHub
 Google Colab
 VS Code
