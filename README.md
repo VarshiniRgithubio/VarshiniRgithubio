@@ -18,19 +18,21 @@ Python
 Machine Learning
 TensorFlow
 Generative AI
-
 Data & Visualization
 Power BI
 Tableau
 Excel
 SQL
-
 Web & App Development
 Streamlit
 HTML
 CSS
-
 Tools & Platforms
 Git & GitHub
 Google Colab
 VS Code
+
+How to reach me
+LinkedIn: https://www.linkedin.com/in/varshini-r-034656299/
+GitHub: https://github.com/VarshiniRgithubio
+Email: varshiniramesha@gmail.com
